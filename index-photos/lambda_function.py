@@ -151,3 +151,4 @@ def lambda_handler(event, context):
         count += 1
 
     return {"indexed": count}
+# Backend pipeline deployment verification v1

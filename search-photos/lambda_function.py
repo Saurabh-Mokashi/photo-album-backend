@@ -172,3 +172,4 @@ def lambda_handler(event, context):
     except Exception:
         logger.exception("Photo search failed")
         return respond(500, {"message": "Photo search failed"})
+# Backend pipeline deployment verification v1
