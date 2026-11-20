@@ -152,3 +152,5 @@ def lambda_handler(event, context):
 
     return {"indexed": count}
 # Backend pipeline deployment verification v1
+
+# Installed GitHub App trigger verification v2
